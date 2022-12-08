@@ -1,12 +1,9 @@
 #include <stdio.h>
 /**
- *c comment
+ * c comment
  *
- * *
- *
- *
- *
- * 
+ * comment
+ * a
  *
  * */
 int main(void)
